@@ -1,0 +1,15 @@
+19.05.2021 moved to github
+
+
+#Network Adapter Cmdlets
+https://technet.microsoft.com/en-us/library/jj134956
+
+#Use PowerShell to Configure Static IP and DNS Settings
+http://blogs.technet.com/b/heyscriptingguy/archive/2012/02/28/use-powershell-to-configure-static-ip-and-dns-settings.aspx
+
+
+
+https://gallery.technet.microsoft.com/scriptcenter/3aa9d51a-44af-4d2a-aa44-6ea541a9f721#content
+
+
+http://blogs.technet.com/b/heyscriptingguy/archive/2011/07/23/use-powershell-to-modify-your-environmental-path.aspx
